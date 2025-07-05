@@ -3,12 +3,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = require("fs");
 const path_1 = require("path");
 const config = {
-    token: 'TOKEN', // token
-    clientId: 'ID', // bot id
-    mongoUri: 'mongodb+', // mongodb url
+    token: 'MTM5MDU4NjY5NTYxMDY2NzA3OA.GhGU1x.gFGKx21g6XHjFsMP1nNc98RkT2A3jkAI4ctdM0', // token
+    clientId: '1390586695610667078', // bot id
+    mongoUri: 'mongodb+srv://alshbanysami:Sami22@ha@cluster0.za3cwuu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', // mongodb url
     defaultPrefix: '!',
-    mainGuildId: 'ID', // main guild id
-    defaultLanguage: 'en',
+    mainGuildId: '1390362494438084798', // main guild id
+    defaultLanguage: 'ar',
     dashboard: {
         port: 3000,     // port for dashboard
         secret: 'wickstudio',  // secret key
